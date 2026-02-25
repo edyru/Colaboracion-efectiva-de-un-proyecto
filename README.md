@@ -1,2 +1,2 @@
-# Colaboracion-efectiva-de-un-proyecto
+# CV Interactivo
 proyecto de github
